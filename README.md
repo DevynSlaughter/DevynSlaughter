@@ -15,11 +15,10 @@ What it needs:		Gameplay
 Game Progression:
  How does the game go on? 
 Level one- TOOTH FAIRY, fight her to get ur teeth back
-Level 2- Santa Clause
-Level 3- Hawkmoth 
-Level 4- The globgabalab
-Level 5- someth9ng
-Level 6- something
+Level 2- Santa Clause, cooking battle: make cookies
+Level 3- Hawkmoth, 
+Level 4- Mrs Puff- boat racing
+Level 5- Lil Nas X- dance battle
 
 Mission/challenge Structure (what is challenging about the game)
 Objectives – What are the objectives of the game? How does it work? (do you have money involved? Are there levels to get through? etc.)
